@@ -1,0 +1,710 @@
+<activiti:formProperty id="=СвЮЛ" name="СвЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодОПФ" name="КодОПФ" type="string" variable="КодОПФ" writable="false"></activiti:formProperty>: 75203
+<activiti:formProperty id="КПП" name="КПП" type="string" variable="КПП" writable="false"></activiti:formProperty>: 583701001
+<activiti:formProperty id="ДатаВып" name="ДатаВып" type="string" variable="ДатаВып" writable="false"></activiti:formProperty>: 2023-10-30
+<activiti:formProperty id="ИНН" name="ИНН" type="string" variable="ИНН" writable="false"></activiti:formProperty>: 5837061569
+<activiti:formProperty id="СпрОПФ" name="СпрОПФ" type="string" variable="СпрОПФ" writable="false"></activiti:formProperty>: ОКОПФ
+<activiti:formProperty id="ДатаОГРН" name="ДатаОГРН" type="string" variable="ДатаОГРН" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="ОГРН" name="ОГРН" type="string" variable="ОГРН" writable="false"></activiti:formProperty>: 1145837003234
+<activiti:formProperty id="ПолнНаимОПФ" name="ПолнНаимОПФ" type="string" variable="ПолнНаимОПФ" writable="false"></activiti:formProperty>: Государственные бюджетные учреждения субъектов Российской Федерации
+<activiti:formProperty id="=СвНаимЮЛ" name="СвНаимЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимЮЛПолн" name="НаимЮЛПолн" type="string" variable="НаимЮЛПолн" writable="false"></activiti:formProperty>: ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ ПЕНЗЕНСКОЙ ОБЛАСТИ "БЕЗОПАСНЫЙ РЕГИОН"
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 1145837003234
+<activiti:formProperty id="=СвНаимЮЛСокр" name="СвНаимЮЛСокр" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимСокр" name="НаимСокр" type="string" variable="НаимСокр" writable="false"></activiti:formProperty>: ГБУ "БЕЗОПАСНЫЙ РЕГИОН"
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 1145837003234
+<activiti:formProperty id="=СвАдресЮЛ" name="СвАдресЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвМНЮЛ" name="СвМНЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдНом" name="ИдНом" type="string" variable="ИдНом" writable="false"></activiti:formProperty>: ff3292b1-a1d2-47d4-b35b-ac06b50555cc
+<activiti:formProperty id="=Регион" name="Регион" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимРегион" name="НаимРегион" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=МуниципРайон" name="МуниципРайон" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ВидКод" name="ВидКод" type="string" variable="ВидКод" writable="false"></activiti:formProperty>: 2
+<activiti:formProperty id="Наим" name="Наим" type="string" variable="Наим" writable="false"></activiti:formProperty>: ГОРОД ПЕНЗА
+<activiti:formProperty id="=НаселенПункт" name="НаселенПункт" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="Вид" name="Вид" type="string" variable="Вид" writable="false"></activiti:formProperty>: Г
+<activiti:formProperty id="Наим" name="Наим" type="string" variable="Наим" writable="false"></activiti:formProperty>: ПЕНЗА
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2023-02-21
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2235800032477
+<activiti:formProperty id="=СвАдрЮЛФИАС" name="СвАдрЮЛФИАС" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="Индекс" name="Индекс" type="string" variable="Индекс" writable="false"></activiti:formProperty>: 440031
+<activiti:formProperty id="ИдНом" name="ИдНом" type="string" variable="ИдНом" writable="false"></activiti:formProperty>: 36651728-ef01-4c45-9151-1088637fdf5b
+<activiti:formProperty id="=Регион" name="Регион" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимРегион" name="НаимРегион" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=МуниципРайон" name="МуниципРайон" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ВидКод" name="ВидКод" type="string" variable="ВидКод" writable="false"></activiti:formProperty>: 2
+<activiti:formProperty id="Наим" name="Наим" type="string" variable="Наим" writable="false"></activiti:formProperty>: ГОРОД ПЕНЗА
+<activiti:formProperty id="=НаселенПункт" name="НаселенПункт" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="Вид" name="Вид" type="string" variable="Вид" writable="false"></activiti:formProperty>: Г
+<activiti:formProperty id="Наим" name="Наим" type="string" variable="Наим" writable="false"></activiti:formProperty>: ПЕНЗА
+<activiti:formProperty id="=ЭлУлДорСети" name="ЭлУлДорСети" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="Наим" name="Наим" type="string" variable="Наим" writable="false"></activiti:formProperty>: ОКРУЖНАЯ
+<activiti:formProperty id="Тип" name="Тип" type="string" variable="Тип" writable="false"></activiti:formProperty>: УЛ
+<activiti:formProperty id="=Здание" name="Здание" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="Номер" name="Номер" type="string" variable="Номер" writable="false"></activiti:formProperty>: 3Б
+<activiti:formProperty id="Тип" name="Тип" type="string" variable="Тип" writable="false"></activiti:formProperty>: СТР.
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2023-02-21
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2235800032477
+<activiti:formProperty id="=СвОбрЮЛ" name="СвОбрЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаОГРН" name="ДатаОГРН" type="string" variable="ДатаОГРН" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="ОГРН" name="ОГРН" type="string" variable="ОГРН" writable="false"></activiti:formProperty>: 1145837003234
+<activiti:formProperty id="=СпОбрЮЛ" name="СпОбрЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимСпОбрЮЛ" name="НаимСпОбрЮЛ" type="string" variable="НаимСпОбрЮЛ" writable="false"></activiti:formProperty>: Создание юридического лица
+<activiti:formProperty id="КодСпОбрЮЛ" name="КодСпОбрЮЛ" type="string" variable="КодСпОбрЮЛ" writable="false"></activiti:formProperty>: 11
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 1145837003234
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="АдрРО" name="АдрРО" type="string" variable="АдрРО" writable="false"></activiti:formProperty>: 440008, Пензенская обл., г. Пенза, ул. Коммунистическая, д. 32
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>: Управление Федеральной налоговой службы по Пензенской области
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>: 5800
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2023-10-26
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2235800203912
+<activiti:formProperty id="=СвУчетНО" name="СвУчетНО" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаПостУч" name="ДатаПостУч" type="string" variable="ДатаПостУч" writable="false"></activiti:formProperty>: 2023-10-30
+<activiti:formProperty id="КПП" name="КПП" type="string" variable="КПП" writable="false"></activiti:formProperty>: 583701001
+<activiti:formProperty id="ИНН" name="ИНН" type="string" variable="ИНН" writable="false"></activiti:formProperty>: 5837061569
+<activiti:formProperty id="=СвНО" name="СвНО" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>: Управление Федеральной налоговой службы по Пензенской области
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>: 5800
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2023-10-30
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2235801006472
+<activiti:formProperty id="=СвРегПФ" name="СвРегПФ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаРег" name="ДатаРег" type="string" variable="ДатаРег" writable="false"></activiti:formProperty>: 2023-02-28
+<activiti:formProperty id="РегНомПФ" name="РегНомПФ" type="string" variable="РегНомПФ" writable="false"></activiti:formProperty>: 068004038576
+<activiti:formProperty id="=СвОргПФ" name="СвОргПФ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимПФ" name="НаимПФ" type="string" variable="НаимПФ" writable="false"></activiti:formProperty>: Отделение Фонда пенсионного и социального страхования Российской Федерации по Пензенской области
+<activiti:formProperty id="КодПФ" name="КодПФ" type="string" variable="КодПФ" writable="false"></activiti:formProperty>: 068004
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2023-02-28
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2235800037207
+<activiti:formProperty id="=СвРегФСС" name="СвРегФСС" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаРег" name="ДатаРег" type="string" variable="ДатаРег" writable="false"></activiti:formProperty>: 2014-10-08
+<activiti:formProperty id="РегНомФСС" name="РегНомФСС" type="string" variable="РегНомФСС" writable="false"></activiti:formProperty>: 580173668258001
+<activiti:formProperty id="=СвОргФСС" name="СвОргФСС" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимФСС" name="НаимФСС" type="string" variable="НаимФСС" writable="false"></activiti:formProperty>: Отделение Фонда пенсионного и социального страхования Российской Федерации по Пензенской области
+<activiti:formProperty id="КодФСС" name="КодФСС" type="string" variable="КодФСС" writable="false"></activiti:formProperty>: 5800
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2018-01-12
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2185835103925
+<activiti:formProperty id="=СведДолжнФЛ" name="СведДолжнФЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ГРНДатаПерв" name="ГРНДатаПерв" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2022-01-28
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2225800017177
+<activiti:formProperty id="=СвФЛ" name="СвФЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИННФЛ" name="ИННФЛ" type="string" variable="ИННФЛ" writable="false"></activiti:formProperty>: 583508895376
+<activiti:formProperty id="Имя" name="Имя" type="string" variable="Имя" writable="false"></activiti:formProperty>: АЛЕКСЕЙ
+<activiti:formProperty id="Фамилия" name="Фамилия" type="string" variable="Фамилия" writable="false"></activiti:formProperty>: ТАРХОВ
+<activiti:formProperty id="Отчество" name="Отчество" type="string" variable="Отчество" writable="false"></activiti:formProperty>: ВЛАДИМИРОВИЧ
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2022-01-28
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2225800017177
+<activiti:formProperty id="=СвДолжн" name="СвДолжн" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидДолжн" name="НаимВидДолжн" type="string" variable="НаимВидДолжн" writable="false"></activiti:formProperty>: Руководитель юридического лица
+<activiti:formProperty id="НаимДолжн" name="НаимДолжн" type="string" variable="НаимДолжн" writable="false"></activiti:formProperty>: ДИРЕКТОР
+<activiti:formProperty id="ВидДолжн" name="ВидДолжн" type="string" variable="ВидДолжн" writable="false"></activiti:formProperty>: 02
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2022-01-28
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2225800017177
+<activiti:formProperty id="=СвПолФЛ" name="СвПолФЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="Пол" name="Пол" type="string" variable="Пол" writable="false"></activiti:formProperty>: 1
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2022-01-28
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2225800017177
+<activiti:formProperty id="=СвГраждФЛ" name="СвГраждФЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодГражд" name="КодГражд" type="string" variable="КодГражд" writable="false"></activiti:formProperty>: 1
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2022-01-28
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2225800017177
+<activiti:formProperty id="=СвУчредит" name="СвУчредит" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=УчрРФСубМО" name="УчрРФСубМО" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ГРНДатаПерв" name="ГРНДатаПерв" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2015-04-03
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2155837040973
+<activiti:formProperty id="=ВидНаимУчр" name="ВидНаимУчр" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодРегион" name="КодРегион" type="string" variable="КодРегион" writable="false"></activiti:formProperty>: 58
+<activiti:formProperty id="КодУчрРФСубМО" name="КодУчрРФСубМО" type="string" variable="КодУчрРФСубМО" writable="false"></activiti:formProperty>: 2
+<activiti:formProperty id="НаимРегион" name="НаимРегион" type="string" variable="НаимРегион" writable="false"></activiti:formProperty>: Пензенская обл
+<activiti:formProperty id="=СвОргОсущПр" name="СвОргОсущПр" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ГРНДатаПерв" name="ГРНДатаПерв" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2017-03-28
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2175835112220
+<activiti:formProperty id="=НаимИННЮЛ" name="НаимИННЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИНН" name="ИНН" type="string" variable="ИНН" writable="false"></activiti:formProperty>: 5836680728
+<activiti:formProperty id="ОГРН" name="ОГРН" type="string" variable="ОГРН" writable="false"></activiti:formProperty>: 1175835001462
+<activiti:formProperty id="НаимЮЛПолн" name="НаимЮЛПолн" type="string" variable="НаимЮЛПолн" writable="false"></activiti:formProperty>: МИНИСТЕРСТВО ЦИФРОВОГО РАЗВИТИЯ, ТРАНСПОРТА И СВЯЗИ ПЕНЗЕНСКОЙ ОБЛАСТИ
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2021-10-08
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2215800183201
+<activiti:formProperty id="=СвОргОсущПр" name="СвОргОсущПр" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ГРНДатаПерв" name="ГРНДатаПерв" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2015-04-03
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2155837040973
+<activiti:formProperty id="=НаимИННЮЛ" name="НаимИННЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИНН" name="ИНН" type="string" variable="ИНН" writable="false"></activiti:formProperty>: 5836680728
+<activiti:formProperty id="ОГРН" name="ОГРН" type="string" variable="ОГРН" writable="false"></activiti:formProperty>: 1175835001462
+<activiti:formProperty id="НаимЮЛПолн" name="НаимЮЛПолн" type="string" variable="НаимЮЛПолн" writable="false"></activiti:formProperty>: МИНИСТЕРСТВО ЦИФРОВОГО РАЗВИТИЯ, ТРАНСПОРТА И СВЯЗИ ПЕНЗЕНСКОЙ ОБЛАСТИ
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2021-10-08
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2215800183201
+<activiti:formProperty id="=СвОКВЭД" name="СвОКВЭД" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвОКВЭДОсн" name="СвОКВЭДОсн" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодОКВЭД" name="КодОКВЭД" type="string" variable="КодОКВЭД" writable="false"></activiti:formProperty>: 63.11
+<activiti:formProperty id="ПрВерсОКВЭД" name="ПрВерсОКВЭД" type="string" variable="ПрВерсОКВЭД" writable="false"></activiti:formProperty>: 2014
+<activiti:formProperty id="НаимОКВЭД" name="НаимОКВЭД" type="string" variable="НаимОКВЭД" writable="false"></activiti:formProperty>: Деятельность по обработке данных, предоставление услуг по размещению информации и связанная с этим деятельность
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 1145837003234
+<activiti:formProperty id="=СвОКВЭДДоп" name="СвОКВЭДДоп" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодОКВЭД" name="КодОКВЭД" type="string" variable="КодОКВЭД" writable="false"></activiti:formProperty>: 33.20
+<activiti:formProperty id="ПрВерсОКВЭД" name="ПрВерсОКВЭД" type="string" variable="ПрВерсОКВЭД" writable="false"></activiti:formProperty>: 2014
+<activiti:formProperty id="НаимОКВЭД" name="НаимОКВЭД" type="string" variable="НаимОКВЭД" writable="false"></activiti:formProperty>: Монтаж промышленных машин и оборудования
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 1145837003234
+<activiti:formProperty id="=СвОКВЭДДоп" name="СвОКВЭДДоп" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодОКВЭД" name="КодОКВЭД" type="string" variable="КодОКВЭД" writable="false"></activiti:formProperty>: 52.21.2
+<activiti:formProperty id="ПрВерсОКВЭД" name="ПрВерсОКВЭД" type="string" variable="ПрВерсОКВЭД" writable="false"></activiti:formProperty>: 2014
+<activiti:formProperty id="НаимОКВЭД" name="НаимОКВЭД" type="string" variable="НаимОКВЭД" writable="false"></activiti:formProperty>: Деятельность вспомогательная, связанная с автомобильным транспортом
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2019-02-07
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2195835061772
+<activiti:formProperty id="=СвОКВЭДДоп" name="СвОКВЭДДоп" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодОКВЭД" name="КодОКВЭД" type="string" variable="КодОКВЭД" writable="false"></activiti:formProperty>: 53.10.2
+<activiti:formProperty id="ПрВерсОКВЭД" name="ПрВерсОКВЭД" type="string" variable="ПрВерсОКВЭД" writable="false"></activiti:formProperty>: 2014
+<activiti:formProperty id="НаимОКВЭД" name="НаимОКВЭД" type="string" variable="НаимОКВЭД" writable="false"></activiti:formProperty>: Деятельность почтовой связи, связанная с пересылкой письменной корреспонденции
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 1145837003234
+<activiti:formProperty id="=СвОКВЭДДоп" name="СвОКВЭДДоп" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодОКВЭД" name="КодОКВЭД" type="string" variable="КодОКВЭД" writable="false"></activiti:formProperty>: 53.10.9
+<activiti:formProperty id="ПрВерсОКВЭД" name="ПрВерсОКВЭД" type="string" variable="ПрВерсОКВЭД" writable="false"></activiti:formProperty>: 2014
+<activiti:formProperty id="НаимОКВЭД" name="НаимОКВЭД" type="string" variable="НаимОКВЭД" writable="false"></activiti:formProperty>: Деятельность почтовой связи общего пользования прочая
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 1145837003234
+<activiti:formProperty id="=СвОКВЭДДоп" name="СвОКВЭДДоп" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодОКВЭД" name="КодОКВЭД" type="string" variable="КодОКВЭД" writable="false"></activiti:formProperty>: 62.01
+<activiti:formProperty id="ПрВерсОКВЭД" name="ПрВерсОКВЭД" type="string" variable="ПрВерсОКВЭД" writable="false"></activiti:formProperty>: 2014
+<activiti:formProperty id="НаимОКВЭД" name="НаимОКВЭД" type="string" variable="НаимОКВЭД" writable="false"></activiti:formProperty>: Разработка компьютерного программного обеспечения
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 1145837003234
+<activiti:formProperty id="=СвОКВЭДДоп" name="СвОКВЭДДоп" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодОКВЭД" name="КодОКВЭД" type="string" variable="КодОКВЭД" writable="false"></activiti:formProperty>: 62.02
+<activiti:formProperty id="ПрВерсОКВЭД" name="ПрВерсОКВЭД" type="string" variable="ПрВерсОКВЭД" writable="false"></activiti:formProperty>: 2014
+<activiti:formProperty id="НаимОКВЭД" name="НаимОКВЭД" type="string" variable="НаимОКВЭД" writable="false"></activiti:formProperty>: Деятельность консультативная и работы в области компьютерных технологий
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 1145837003234
+<activiti:formProperty id="=СвОКВЭДДоп" name="СвОКВЭДДоп" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодОКВЭД" name="КодОКВЭД" type="string" variable="КодОКВЭД" writable="false"></activiti:formProperty>: 62.09
+<activiti:formProperty id="ПрВерсОКВЭД" name="ПрВерсОКВЭД" type="string" variable="ПрВерсОКВЭД" writable="false"></activiti:formProperty>: 2014
+<activiti:formProperty id="НаимОКВЭД" name="НаимОКВЭД" type="string" variable="НаимОКВЭД" writable="false"></activiti:formProperty>: Деятельность, связанная с использованием вычислительной техники и информационных технологий, прочая
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 1145837003234
+<activiti:formProperty id="=СвОКВЭДДоп" name="СвОКВЭДДоп" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодОКВЭД" name="КодОКВЭД" type="string" variable="КодОКВЭД" writable="false"></activiti:formProperty>: 63.11.1
+<activiti:formProperty id="ПрВерсОКВЭД" name="ПрВерсОКВЭД" type="string" variable="ПрВерсОКВЭД" writable="false"></activiti:formProperty>: 2014
+<activiti:formProperty id="НаимОКВЭД" name="НаимОКВЭД" type="string" variable="НаимОКВЭД" writable="false"></activiti:formProperty>: Деятельность по созданию и использованию баз данных и информационных ресурсов
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 1145837003234
+<activiti:formProperty id="=СвОКВЭДДоп" name="СвОКВЭДДоп" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодОКВЭД" name="КодОКВЭД" type="string" variable="КодОКВЭД" writable="false"></activiti:formProperty>: 72.19
+<activiti:formProperty id="ПрВерсОКВЭД" name="ПрВерсОКВЭД" type="string" variable="ПрВерсОКВЭД" writable="false"></activiti:formProperty>: 2014
+<activiti:formProperty id="НаимОКВЭД" name="НаимОКВЭД" type="string" variable="НаимОКВЭД" writable="false"></activiti:formProperty>: Научные исследования и разработки в области естественных и технических наук прочие
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 1145837003234
+<activiti:formProperty id="=СвОКВЭДДоп" name="СвОКВЭДДоп" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодОКВЭД" name="КодОКВЭД" type="string" variable="КодОКВЭД" writable="false"></activiti:formProperty>: 77.33.2
+<activiti:formProperty id="ПрВерсОКВЭД" name="ПрВерсОКВЭД" type="string" variable="ПрВерсОКВЭД" writable="false"></activiti:formProperty>: 2014
+<activiti:formProperty id="НаимОКВЭД" name="НаимОКВЭД" type="string" variable="НаимОКВЭД" writable="false"></activiti:formProperty>: Аренда и лизинг вычислительных машин и оборудования
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 1145837003234
+<activiti:formProperty id="=СвОКВЭДДоп" name="СвОКВЭДДоп" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодОКВЭД" name="КодОКВЭД" type="string" variable="КодОКВЭД" writable="false"></activiti:formProperty>: 82.99
+<activiti:formProperty id="ПрВерсОКВЭД" name="ПрВерсОКВЭД" type="string" variable="ПрВерсОКВЭД" writable="false"></activiti:formProperty>: 2014
+<activiti:formProperty id="НаимОКВЭД" name="НаимОКВЭД" type="string" variable="НаимОКВЭД" writable="false"></activiti:formProperty>: Деятельность по предоставлению прочих вспомогательных услуг для бизнеса, не включенная в другие группировки
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 1145837003234
+<activiti:formProperty id="=СвОКВЭДДоп" name="СвОКВЭДДоп" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодОКВЭД" name="КодОКВЭД" type="string" variable="КодОКВЭД" writable="false"></activiti:formProperty>: 95.11
+<activiti:formProperty id="ПрВерсОКВЭД" name="ПрВерсОКВЭД" type="string" variable="ПрВерсОКВЭД" writable="false"></activiti:formProperty>: 2014
+<activiti:formProperty id="НаимОКВЭД" name="НаимОКВЭД" type="string" variable="НаимОКВЭД" writable="false"></activiti:formProperty>: Ремонт компьютеров и периферийного компьютерного оборудования
+<activiti:formProperty id="=ГРНДата" name="ГРНДата" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗаписи" name="ДатаЗаписи" type="string" variable="ДатаЗаписи" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 1145837003234
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>: 1145837003234
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 1145837003234
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>: 11201
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>: Создание юридического лица
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>: Инспекция Федеральной налоговой службы по Первомайскому району г.Пензы
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>: 5837
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвСвид" name="СвСвид" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="Номер" name="Номер" type="string" variable="Номер" writable="false"></activiti:formProperty>: 002021217
+<activiti:formProperty id="Серия" name="Серия" type="string" variable="Серия" writable="false"></activiti:formProperty>: 58
+<activiti:formProperty id="ДатаВыдСвид" name="ДатаВыдСвид" type="string" variable="ДатаВыдСвид" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>: 2014-10-06
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>: 2145837038576
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2145837038576
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>: 13200
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>: Представление сведений об учете юридического лица в налоговом органе
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>: Инспекция Федеральной налоговой службы по Первомайскому району г.Пензы
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>: 5837
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>: 2014-10-10
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>: 2145837039192
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2145837039192
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>: 13400
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>: Представление сведений о регистрации юридического лица в качестве страхователя в исполнительном органе Фонда социального страхования Российской Федерации
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>: Инспекция Федеральной налоговой службы по Первомайскому району г.Пензы
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>: 5837
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>: 2015-04-03
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>: 150000007888160
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2155837040962
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>: 12101
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>: Государственная регистрация изменений, внесенных в учредительный документ юридического лица, и внесение изменений в сведения о юридическом лице, содержащиеся в ЕГРЮЛ
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>: Инспекция Федеральной налоговой службы по Первомайскому району г.Пензы
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>: 5837
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>: 2015-04-03
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>: 150000007888888
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2155837040973
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>: 12201
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>: Изменение сведений о юридическом лице, содержащихся в Едином государственном реестре юридических лиц
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>: Инспекция Федеральной налоговой службы по Первомайскому району г.Пензы
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>: 5837
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>: 2016-05-06
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>: 150000052458231
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2165835207712
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>: 12101
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>: Государственная регистрация изменений, внесенных в учредительный документ юридического лица, и внесение изменений в сведения о юридическом лице, содержащиеся в ЕГРЮЛ
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>: Инспекция Федеральной налоговой службы по Октябрьскому району г.Пензы
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>: 5835
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>: 2016-11-02
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>: 150000106344578
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2165835414798
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>: 13300
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>: Представление сведений о регистрации юридического лица в качестве страхователя в территориальном органе Пенсионного фонда Российской Федерации
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>: Инспекция Федеральной налоговой службы по Октябрьскому району г.Пензы
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>: 5835
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>: 2017-03-28
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>: 150000125260237
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2175835112220
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>: 12101
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>: Государственная регистрация изменений, внесенных в учредительный документ юридического лица, и внесение изменений в сведения о юридическом лице, содержащиеся в ЕГРЮЛ
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>: Инспекция Федеральной налоговой службы по Октябрьскому району г.Пензы
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>: 5835
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>: 2017-06-13
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>: 150000131805028
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>: 2175835186558
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>: 12101
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НомДок" name="НомДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СведПредДок" name="СведПредДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=НаимДок" name="НаимДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ДатаДок" name="ДатаДок" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвЗапЕГРЮЛ" name="СвЗапЕГРЮЛ" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ДатаЗап" name="ДатаЗап" type="string" variable="ДатаЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ИдЗап" name="ИдЗап" type="string" variable="ИдЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="ГРН" name="ГРН" type="string" variable="ГРН" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=ВидЗап" name="ВидЗап" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодСПВЗ" name="КодСПВЗ" type="string" variable="КодСПВЗ" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимВидЗап" name="НаимВидЗап" type="string" variable="НаимВидЗап" writable="false"></activiti:formProperty>
+<activiti:formProperty id="=СвРегОрг" name="СвРегОрг" type="string" writable="false"></activiti:formProperty>
+<activiti:formProperty id="НаимНО" name="НаимНО" type="string" variable="НаимНО" writable="false"></activiti:formProperty>
+<activiti:formProperty id="КодНО" name="КодНО" type="string" variable="КодНО" writable="false"></activiti:formProperty>
