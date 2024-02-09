@@ -8,6 +8,11 @@ import java.util.Map;
             this.attributes = attributes;
         }
 
+        @Override
+        public String toString() {
+            return "NodeName: " + nodeName + ", Attributes: " + attributes;
+        }
+
         public String getNodeName() {
             return nodeName;
         }
