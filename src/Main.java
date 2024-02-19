@@ -13,20 +13,31 @@ import java.util.Map;
 public class Main {
     public static void main(String[] args) {
         try {
-            File inputFile = new File("input.xml");
+            File inputFile = new File("input (1).xml");
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
             Document doc = dBuilder.parse(inputFile);
             doc.getDocumentElement().normalize();
 
             List<XmlData> dataList = new ArrayList<>();
-            processNode(doc.getDocumentElement(), "", dataList, new HashMap<>(), new HashMap<>());
+            Map<String, Integer> conBlock = new HashMap<>();
+            processNode(doc.getDocumentElement(), "", dataList, new HashMap<>(), conBlock);
+
+            for (String key : conBlock.keySet()) {
+                System.out.println(key + ": " + conBlock.get(key));
+            }
+
+            for (int i = 0; i < conBlock.size(); i++) {
+                Object o = conBlock.keySet().toArray()[i];
+//                System.out.println(String.valueOf(o) + ": " + conBlock.get(i));
+//                saveToContextIfNotNull(context, SVEDPREDDOC + "_" + (i), conBlock.get(i));
+            }
 
             // Выводим содержимое списка
             for (XmlData data : dataList) {
                 System.out.println(data.getNodeName());
                 for (Map.Entry<String, String> entry : data.getAttributes().entrySet()) {
-                    System.out.println("   " + entry.getKey() + ": " + entry.getValue());
+                    System.out.println("   " + data.getNodeName() +"_"+entry.getKey() + ": " + entry.getValue());
                 }
             }
         } catch (Exception e) {
@@ -34,7 +45,9 @@ public class Main {
         }
     }
 
-    private static void processNode(Node node, String path, List<XmlData> dataList, Map<String, Integer> nodeOccurrences, Map<String, Integer> nodeBlock) {
+    private static void processNode(Node node, String path, List<XmlData> dataList, Map<String, Integer> nodeOccurrences, Map<String, Integer> conBlock) {
+        final String SVEDPREDDOC = "Файл_Документ_СвЮЛ_СвЗапЕГРЮЛ_СведПредДок";
+        final String EGRUL = "Файл_Документ_СвЮЛ_СвЗапЕГРЮЛ";
         String newPath = path.isEmpty() ? node.getNodeName() : path + "_" + node.getNodeName();
         String newPathAttribute = path.isEmpty() ? node.getNodeName() : path;
 
@@ -56,6 +69,10 @@ public class Main {
             for (int i = 0; i < node.getAttributes().getLength(); i++) {
                 attributes.put(node.getAttributes().item(i).getNodeName() + "_" + (count + 1), node.getAttributes().item(i).getNodeValue());
             }
+            if (node.getNodeName().equals("СвЗапЕГРЮЛ")) {
+                conBlock.put(SVEDPREDDOC + "_" + nodeOccurrences.get(EGRUL), nodeOccurrences.get(SVEDPREDDOC));
+                nodeOccurrences.put(SVEDPREDDOC, 0);
+            }
             nodeOccurrences.put(path + "_" + node.getNodeName(), count + 1);
         } else {
             for (int i = 0; i < node.getAttributes().getLength(); i++) {
@@ -69,16 +86,10 @@ public class Main {
         }
 
         if (node.getTextContent() != null && !node.getTextContent().trim().isEmpty() && attributes.isEmpty()) {
-            System.out.println(node.getParentNode().getNodeName());
-            int count = 0;
-            if (node.getParentNode().getNodeName().equals("СвЗапЕГРЮЛ")) {
-                count = 0;
-                nodeBlock.clear();
-            } else if (node.getParentNode().equals("СведПредДок")) {
-                nodeBlock.put("СведПредДок", count + 1);
-                attributes.put(node.getNodeName() + "_" + nodeBlock.get(node.getNodeName()), node.getTextContent().trim());
+            if (node.getParentNode().getNodeName().equals("СведПредДок")) {
+                attributes.put(node.getNodeName() + "_" + nodeOccurrences.get(EGRUL) + "_" + nodeOccurrences.get(newPathAttribute), node.getTextContent().trim());
             } else {
-                attributes.put(node.getNodeName()+"_test", node.getTextContent().trim());
+                attributes.put(node.getNodeName(), node.getTextContent().trim());
             }
             dataList.add(new XmlData(newPathAttribute, attributes));
         } else {
@@ -89,7 +100,7 @@ public class Main {
         for (int i = 0; i < children.getLength(); i++) {
             Node child = children.item(i);
             if (child.getNodeType() == Node.ELEMENT_NODE) {
-                processNode(child, newPath, dataList, nodeOccurrences, nodeBlock);
+                processNode(child, newPath, dataList, nodeOccurrences, conBlock);
             }
         }
     }
